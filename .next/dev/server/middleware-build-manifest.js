@@ -1,0 +1,51 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": [
+      "static/chunks/1d22b_next_dist_compiled_8d5de435._.js",
+      "static/chunks/1d22b_next_dist_shared_lib_cbf45ee2._.js",
+      "static/chunks/1d22b_next_dist_client_411e9da4._.js",
+      "static/chunks/1d22b_next_dist_c3e9ce46._.js",
+      "static/chunks/1d22b_next_app_2e4f6056.js",
+      "static/chunks/[next]_entry_page-loader_ts_5c241504._.js",
+      "static/chunks/1d22b_react-dom_7cf92f8f._.js",
+      "static/chunks/1d22b_e7022053._.js",
+      "static/chunks/[root-of-the-server]__8c209618._.js",
+      "static/chunks/Desktop_Blog_smart-shopping-sa_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-Desktop_Blog_smart-shopping-sa_pages__app_7a3357c7._.js"
+    ],
+    "/_error": [
+      "static/chunks/1d22b_next_dist_compiled_8d5de435._.js",
+      "static/chunks/1d22b_next_dist_shared_lib_8f0b7507._.js",
+      "static/chunks/1d22b_next_dist_client_411e9da4._.js",
+      "static/chunks/1d22b_next_dist_db09a1b7._.js",
+      "static/chunks/1d22b_next_error_06db44c1.js",
+      "static/chunks/[next]_entry_page-loader_ts_3bcd762a._.js",
+      "static/chunks/1d22b_react-dom_7cf92f8f._.js",
+      "static/chunks/1d22b_e7022053._.js",
+      "static/chunks/[root-of-the-server]__35821be6._.js",
+      "static/chunks/Desktop_Blog_smart-shopping-sa_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-Desktop_Blog_smart-shopping-sa_pages__error_e62e6805._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/1d22b_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_138eb057._.js",
+    "static/chunks/1d22b_next_dist_compiled_react-dom_c2782e31._.js",
+    "static/chunks/1d22b_next_dist_compiled_react-server-dom-turbopack_5d95126d._.js",
+    "static/chunks/1d22b_next_dist_compiled_next-devtools_index_baf07676.js",
+    "static/chunks/1d22b_next_dist_compiled_8d544eb7._.js",
+    "static/chunks/1d22b_next_dist_client_3f8c5975._.js",
+    "static/chunks/1d22b_next_dist_ba9c15bc._.js",
+    "static/chunks/1d22b_@swc_helpers_cjs_448e19d4._.js",
+    "static/chunks/Desktop_Blog_smart-shopping-sa_a0ff3932._.js",
+    "static/chunks/turbopack-Desktop_Blog_smart-shopping-sa_0a892605._.js"
+  ]
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js"
+];
